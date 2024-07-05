@@ -16,7 +16,7 @@ _Huellas Incómodas_ (Uncomfortable Footsteps) is an international collective of
 
 Weber on the Web is an Open Educational Resource project developed by sociology students at the Autonomous University of the State of Mexico. The objective of the project is to collect quality information available on the Internet about Max Weber and Marianne Weber, German sociologists with a great influence on the discipline. This work is part of the course Founders of Sociology: Max Weber, taught at the Faculty of Political and Social Sciences. 
 
-### [Luhmann Web]([https://rosariorogel.net/weberweb](https://rosariorogel.net/luhmann/)
+### [Luhmann Web](https://rosariorogel.net/luhmann/)
 
 Luhmann Web is an Open Educational Resource project developed by sociology students at the Autonomous University of the State of Mexico. The objective of the project is to collect quality information available on the Internet about Niklas Luhmann's Social Systems Theory, German sociologists with a great influence on the discipline. This work is part of the course Complexity and Systems Theory taught at the Faculty of Political and Social Sciences. 
 
