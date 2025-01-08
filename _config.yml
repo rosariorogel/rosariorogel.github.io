@@ -121,7 +121,7 @@ author:
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-6018-0635"
     - label: "Google Scholar"
-      icon: "assets/img/icon figshare.png"
+      icon: "fa-solid fa-chart-area"
       url: "https://scholar.google.com.mx/citations?user=t5jxiy0AAAAJ&hl=es"
     - label: "Figshare"
       icon: "fa-solid fa-chart-area"
