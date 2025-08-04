@@ -1,24 +1,32 @@
 ---
 layout: single
 title: Teaching
-subtitle:
+subtitle: Classes, workshops, webinars, and more
 permalink: teaching
 header:
   image: /assets/img/header-balloons-teoti.jpg
 ---
+<div style="background-color: #fff9e6; border-left: 4px solid #f0ad4e; padding: 1em; margin-bottom: 1em;">
+  <strong>Note:</strong> This section features the different sessions for each course or workshop. To view all available sessions, hover your mouse over the top-right corner of the video box and click the playlist icon.
+</div>
 
-**Investigación Cualitativa**
+---
 
-*Grupos de Enfoque & Grupos de Discusión: Estrategias de análisis conversacional en investigación cualitativa*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYtbuu5oHjM?si=5DA3yFKckuTCwJlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="row">
+{% for p in site.data.playlists %}
+  <div class="col-md-6 mb-4">
+    <h3>{{ p.name }}</h3>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+      <iframe
+        src="https://www.youtube.com/embed?listType=playlist&list={{ p.id }}"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        style="position: absolute; top:0; left:0; width:100%; height:100%;"
+      ></iframe>
+    </div>
+  </div>
+{% endfor %}
+</div>
 
-**Tutoriales en español**
-
-*Tutorial: Uso de Grupos de Zotero para compartir bibliografía de un curso*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B1RPOwv6sUA?si=OdcrGmC02v0X76Kn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-*Tutorial: ¿Cómo utilizar la herramienta de anotación web Hypothes.is?*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/klIKXj1qnUQ?si=2GvXLvbnnMF6pEo6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-*Tutorial de uso Flipgrid para clases a distancia*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lbT0lODhTrA?si=VMZJrWoLOq_lj_59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
