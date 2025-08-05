@@ -101,12 +101,12 @@ author_profile: true
         <a href="https://shareknowledgenetwork.wordpress.com" target="_blank">Share Knowledge Network</a>
       </h3>
       <p style="margin:0;">
-        With the hashtag #ShareKnowledge—especially on Twitter—we share resources, tools, and testimonies related to Social Science Research Methodology, Scientific Communication, Open Science, and Open Access. This blog collects and organizes selected content from social media to serve students, researchers, and anyone interested in these topics.
+        With the hashtag #ShareKnowledge I share resources, tools, and testimonies related to Social Science Research Methodology, Scientific Communication, Open Science, and Open Access. This blog collects and organizes selected content from social media to serve students, researchers, and anyone interested in these topics.
       </p>
     </div>
   </div>
 
-  <!-- unamUnlocked playlist -->
+  <!-- UNAMUnlocked playlist -->
   <div style="width: 320px; background: #fafaff; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 8px #eee;">
     <img src="/assets/img/Img_UNAM.jpg" alt="unamUnlocked Playlist" style="width: 100%; height: 170px; object-fit: cover;">
     <div style="padding: 14px;">
@@ -114,7 +114,7 @@ author_profile: true
         <a href="https://www.youtube.com/playlist?list=PLLDz9GYV7-mjdPmdyQtXgXhFvIOk-D34F" target="_blank">unamUnlocked</a>
       </h3>
       <p style="margin:0;">
-        An outreach project on Open Access, developed in collaboration with the General Directorate of Computing and Information Technologies at UNAM during International Open Access Week 2018. The playlist compiles talks and discussions to foster open knowledge.
+        An outreach project on Open Access, developed in collaboration with the Dirección General de Cómputo y Tecnologías de la Información at UNAM during International Open Access Week 2018. The playlist compiles talks and discussions to foster open knowledge.
       </p>
     </div>
   </div>
@@ -127,7 +127,7 @@ author_profile: true
         <a href="https://www.youtube.com/playlist?list=PLLDz9GYV7-mgOpCdYi5yCczxq8pyy0Oko" target="_blank">Vivir el confinamiento</a>
       </h3>
       <p style="margin:0;">
-        The "#VivirElConfinamiento, the Internet as a key tool" seminar addresses contemporary concerns during the COVID-19 pandemic. These are informal Saturday talks led by Ivett Tinoco, Rosario Rogel, and Arely Figueroa, reflecting on challenges and strategies in a context of global crisis. Broadcast live on Facebook since May 2020, recordings are available on this YouTube playlist.
+        The "#VivirElConfinamiento, the Internet as a key tool" seminar addresses contemporary concerns during the COVID-19 pandemic. These are informal Saturday talks led by Ivett Tinoco, Rosario Rogel and Arely Figueroa, reflecting on challenges and strategies in a context of global crisis. Broadcast live on Facebook since May 2020, recordings are available on this YouTube playlist.
       </p>
     </div>
   </div>
