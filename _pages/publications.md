@@ -4,7 +4,7 @@ title: Publications
 subtitle:
 permalink: publications 
 header:
-  image: /assets/img/header-nevado.jpg
+  image: /assets/img/banner_publicaciones2.jpg
 ---
 
 These are my publications, all of them have a link to the full text in Open Access:
