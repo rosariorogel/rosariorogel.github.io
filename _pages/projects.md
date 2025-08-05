@@ -108,10 +108,10 @@ author_profile: true
 
   <!-- UNAMUnlocked playlist -->
   <div style="width: 320px; background: #fafaff; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 8px #eee;">
-    <img src="/assets/img/Img_UNAM.jpg" alt="unamUnlocked Playlist" style="width: 100%; height: 170px; object-fit: cover;">
+    <img src="/assets/img/Img_UNAM.jpg" alt="UNAMUnlocked Playlist" style="width: 100%; height: 170px; object-fit: cover;">
     <div style="padding: 14px;">
       <h3 style="margin:0 0 6px 0; font-size:1.1em;">
-        <a href="https://www.youtube.com/playlist?list=PLLDz9GYV7-mjdPmdyQtXgXhFvIOk-D34F" target="_blank">unamUnlocked</a>
+        <a href="https://www.youtube.com/playlist?list=PLLDz9GYV7-mjdPmdyQtXgXhFvIOk-D34F" target="_blank">UNAMUnlocked</a>
       </h3>
       <p style="margin:0;">
         An outreach project on Open Access, developed in collaboration with the Dirección General de Cómputo y Tecnologías de la Información at UNAM during International Open Access Week 2018. The playlist compiles talks and discussions to foster open knowledge.
