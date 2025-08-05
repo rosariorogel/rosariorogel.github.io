@@ -6,6 +6,8 @@ main:
     url: talks
   - title: Teaching
     url: teaching
+  - title: Interviews
+    url: interviews
   - title: Projects
     url: projects
   - title: Consulting
