@@ -4,7 +4,7 @@ title: Projects
 subtitle:
 permalink: projects
 header:
-  image: /assets/img/header-huellas.jpg
+  image: /assets/img/banner_equipo.jpg
 author_profile: true
 ---
 
