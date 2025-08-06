@@ -4,7 +4,7 @@ title: Talks
 subtitle:
 permalink: talks 
 header:
-  image: /assets/img/rr-talks-banner.jpg
+  image: /assets/img/banner_conmicro.jpg
 ---
 
 Here I have compiled some of the lectures I have given—both as a guest speaker and as part of academic conferences—which are available on YouTube. Some others can be found on my YouTube channel: [@rosariogel](https://www.youtube.com/@RosarioRogel){:target="_blank" rel="noopener"}   
