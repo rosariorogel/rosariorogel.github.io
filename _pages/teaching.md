@@ -7,7 +7,7 @@ header:
   image: /assets/img/banner_teaching3.jpg
 ---
 <div style="background-color: #fff9e6; border-left: 4px solid #f0ad4e; padding: 1em; margin-bottom: 1em;">
-  <strong>Note:</strong>Note: This section shows the different sessions for each course or workshop. To view all available sessions, place your cursor over the upper right corner of the video box and click on the playlist icon.
+  <strong>Note:</strong> This section shows the different sessions for each course or workshop. To view all available sessions, place your cursor over the upper right corner of the video box and click on the playlist icon.
 </div>
 
 ---
