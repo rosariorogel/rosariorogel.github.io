@@ -4,7 +4,7 @@ title: Consulting
 subtitle:
 permalink: consulting 
 header:
-  image: /assets/img/banner_SciCo.jpg
+  image: assets/img/banner_SCiCo.jpg
 ---
 
 ### [Scientificomm](http://scientificomm.info/)
