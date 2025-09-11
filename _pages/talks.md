@@ -10,7 +10,7 @@ header:
 Here I have compiled some of the lectures I have given—both as a guest speaker and as part of academic conferences—which are available on YouTube. Some others can be found on my YouTube channel: [@rosariogel](https://www.youtube.com/@RosarioRogel){:target="_blank" rel="noopener"}   
 
 ---
-### APC (Amenazas, Poder y Control) en la comunicación científica: el lado oscuro de los indicadores  
+### APC (Amenazas, Poder y Control) en la comunicación científica: el lado obscuro de los indicadores científicos  
 **Organiza:** Openlab EC – Jornadas: Descubriendo la Ciencia Abierta 2025  
 **Fecha:** 10 de septiembre de 2025  
 
