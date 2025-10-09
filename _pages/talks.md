@@ -10,6 +10,22 @@ header:
 Here I have compiled some of the lectures I have given—both as a guest speaker and as part of academic conferences—which are available on YouTube. Some others can be found on my YouTube channel: [@rosariogel](https://www.youtube.com/@RosarioRogel){:target="_blank" rel="noopener"}   
 
 ---
+### Más allá de las estanterías: el acceso abierto como estrategia de gestión, visibilidad y democratización de colecciones académicas  
+**Organiza:** El Colegio de México – Red BAALC  
+**Evento:** Primer Simposio Latinoamericano y Caribeño sobre Gestión y Promoción de Colecciones en Bibliotecas Académicas  
+**Fecha:** 6 al 8 de octubre de 2025  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/RpkyiFZiA4U"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
 ### APC (Amenazas, Poder y Control) en la comunicación científica: el lado obscuro de los indicadores científicos  
 **Organiza:** Openlab EC – Jornadas: Descubriendo la Ciencia Abierta 2025  
 **Fecha:** 10 de septiembre de 2025  
