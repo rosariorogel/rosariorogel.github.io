@@ -17,7 +17,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
-    src="https://www.youtube.com/embed/RpkyiFZiA4U"
+    src="https://www.youtube.com/live/RpkyiFZiA4U?si=vbzLBAnW-5fuuUpL&t=3788"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
