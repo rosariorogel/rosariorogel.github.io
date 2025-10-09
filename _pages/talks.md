@@ -17,14 +17,13 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
-    src="https://www.youtube.com/live/RpkyiFZiA4U?si=vbzLBAnW-5fuuUpL&t=3788"
+    src="https://www.youtube.com/embed/RpkyiFZiA4U?start=3788"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
   ></iframe>
 </div>
-
 ---
 ### APC (Amenazas, Poder y Control) en la comunicación científica: el lado obscuro de los indicadores científicos  
 **Organiza:** Openlab EC – Jornadas: Descubriendo la Ciencia Abierta 2025  
