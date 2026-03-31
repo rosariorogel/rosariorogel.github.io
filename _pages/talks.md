@@ -17,7 +17,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
-    src="https://youtu.be/LwpeT6AOd1w?si=3e6nfYJ0X-GxJS8q"
+    src="https://www.youtu.be/LwpeT6AOd1w?si=3e6nfYJ0X-GxJS8q"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
@@ -33,7 +33,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
-    src="https://youtu.be/MO5z-Mb4MHM?si=JwuelfHqlPuLToV4"
+    src="https://www.youtu.be/MO5z-Mb4MHM?si=JwuelfHqlPuLToV4"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
