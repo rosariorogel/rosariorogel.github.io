@@ -26,6 +26,38 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 </div>
 
 ---
+### Bridging Borders with Luhmann: A Multilingual COIL Course on AI, Law, Education, and Society  
+**Organiza:** OpenEd  
+**Evento:** Open Education Conference, 2025    
+**Fecha:** 29 de octubre de 2025  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/MO5z-Mb4MHM"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
+### PREreview: Comunidades de revisiones en abierto  
+**Organiza:** OpenLab, Ecuador  
+**Evento:** Segundo Congreso Iberoamericano de Ciencia Abierta, 2025  
+**Fecha:** 27 de noviembre de 2025  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/GqRMyilQhQA"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
 ### Más allá de las estanterías: el acceso abierto como estrategia de gestión, visibilidad y democratización de colecciones académicas  
 **Organiza:** El Colegio de México – Red BAALC  
 **Evento:** Primer Simposio Latinoamericano y Caribeño sobre Gestión y Promoción de Colecciones en Bibliotecas Académicas  
