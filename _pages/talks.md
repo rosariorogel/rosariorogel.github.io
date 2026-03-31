@@ -17,39 +17,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
-    src="https://www.youtu.be/LwpeT6AOd1w?si=3e6nfYJ0X-GxJS8q"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-  ></iframe>
-</div>
-
----
-### Bridging Borders with Luhmann: A Multilingual COIL Course on AI, Law, Education, and Society  
-**Organiza:** OpenEd  
-**Evento:** Open Education Conference, 2025    
-**Fecha:** 29 de octubre de 2025  
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
-  <iframe
-    src="https://www.youtu.be/MO5z-Mb4MHM?si=JwuelfHqlPuLToV4"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-  ></iframe>
-</div>
-
----
-### PREreview: Comunidades de revisiones en abierto  
-**Organiza:** OpenLab, Ecuador  
-**Evento:** Segundo Congreso Iberoamericano de Ciencia Abierta, 2025  
-**Fecha:** 27 de noviembre de 2025  
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
-  <iframe
-    src="https://www.youtube.com/live/GqRMyilQhQA?si=HjwVsxtCYlLeJeB9"
+    src="https://www.youtube.com/embed/LwpeT6AOd1w"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
