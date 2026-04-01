@@ -340,7 +340,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 ---
 ### The open future in an algorithmic age: A discussion with Elena Esposito    
 **Organiza:** Seminario Internacional de Sistemas Sociales, Redes y Complejidad   
-**Fecha:** 18 de diciemebre de 2022    
+**Fecha:** 18 de diciembre de 2022    
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
@@ -726,7 +726,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 ---
 ### Mejorar el impacto de la producción académico-científica      
 **Organiza:** Universidad Nacional de Cuyo, Argentina   
-**Fecha:** 04 de diciemebre de 2017  
+**Fecha:** 04 de diciembre de 2017  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
