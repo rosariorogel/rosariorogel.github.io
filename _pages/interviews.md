@@ -10,6 +10,21 @@ header:
 Here I have compiled some of the interviews I have given or participated in—as a guest, expert, or for various academic and professional purposes. Most are available as video. Some others can be found on my YouTube channel: [@rosariorogel](https://www.youtube.com/@RosarioRogel){:target="_blank" rel="noopener"}
 
 ---
+### Entrevista sobre el Seminario Algoritmos de la Sociedad  
+**Programa:** Seminario Internacional de Sistemas Sociales, Redes y Complejidad  
+**Fecha:** 6 de marzo de 2026
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/N-Fn1Cqos6g"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
 ### Lectura colectiva y anotación digital    
 **Programa:** Diálogos Educativos, UNAM - Canal 22 (México)   
 **Fecha:** 22 de febrero de 2025  
