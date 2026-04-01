@@ -619,7 +619,7 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 
 ---
 ### Comités de las revistas científicas  
-**Organiza:** Universidad Autónoma de Nuevo León
+**Organiza:** Universidad Autónoma de Nuevo León  
 **Evento:** Revistas Académicas UANL    
 **Fecha:** 17 de mayo de 2018  
 
