@@ -437,6 +437,22 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 </div>
 
 ---
+### Taller Criterios de Transparencia y Buenas Prácticas para Publicaciones Académicas  
+**Organiza:** Universidad Autónoma de Nuevo León  
+**Evento:** Revistas Académicas UANL    
+**Fecha:** 04 de mayo de 2022  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/EM6TOnzHv1g"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
 ### Reestructuración del ciclo de investigación científica en el contexto de la Ciencia Abierta        
 **Organiza:** Conferencia Latinoamericana y del Caribe para la Internacionalización de la Educación Superior (LACHEC)  
 **Fecha:** 27 de agosto de 2021  
@@ -594,6 +610,22 @@ Here I have compiled some of the lectures I have given—both as a guest speaker
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
   <iframe
     src="https://www.youtube.com/embed/0wB1wMlfDVY?list=PLLDz9GYV7-migzwUAS3CAOi-Luy4swu55"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+---
+### Comités de las revistas científicas  
+**Organiza:** Universidad Autónoma de Nuevo León
+**Evento:** Revistas Académicas UANL    
+**Fecha:** 17 de mayo de 2018  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/iDmJo1LJdRc"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
