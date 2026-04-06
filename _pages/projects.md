@@ -12,6 +12,23 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px;">
 
+  <!-- Creative Commons OER México -->
+  <div style="width: 320px; background: #fafaff; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 8px #eee;">
+    <img src="/assets/img/Swedish_CC_book.png" alt="Creative Commons OER México" style="width: 100%; height: 170px; object-fit: cover;">
+    <div style="padding: 14px;">
+      <h3 style="margin:0 0 6px 0; font-size:1.1em;">
+        <a href="https://rosariorogel.net/cc-oer-mexico/" target="_blank">
+          Creative Commons OER México 
+          <span style="font-size:0.75em; color:#999;">(2026)</span>
+        </a>
+      </h3>
+      <p style="margin:0;">
+        A Spanish-language Open Educational Resource on Creative Commons licensing, TASL attribution, and copyright in Mexico (LFDA), designed for undergraduate students in Social Sciences and Humanities. The project combines legal context, practical cases, and applied guidance, while modeling open practices through correct attribution and licensing. Developed as part of the Creative Commons Certificate.
+      </p>
+    </div>
+  </div> 
+  
+
   <!-- Luhmann Web 4.0 -->
   <div style="width: 320px; background: #fafaff; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 8px #eee;">
     <img src="/assets/img/Img_Luhmann.jpg" alt="Luhmann Web" style="width: 100%; height: 170px; object-fit: cover;">
