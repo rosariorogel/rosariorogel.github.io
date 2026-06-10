@@ -34,7 +34,7 @@ author_profile: true
     <img src="/assets/img/Img_Luhmann.jpg" alt="Luhmann Web" style="width: 100%; height: 170px; object-fit: cover;">
     <div style="padding: 14px;">
       <h3 style="margin:0 0 6px 0; font-size:1.1em;">
-        <a href="https://rosariorogel.net/luhmann/" target="_blank">Luhmann Web 4.0</a>
+        <a href="https://rosariorogel.net/luhmann/" target="_blank">Luhmann Web 5.0</a>
       </h3>
       <p style="margin:0;">
         Luhmann Web is an Open Educational Resource project developed by sociology students at the Autonomous University of the State of Mexico. The project collects quality information available on the Internet about Niklas Luhmann's Social Systems Theory, one of the most influential German sociologists in the discipline. Part of the Complexity and Systems Theory course at the Faculty of Political and Social Sciences.
