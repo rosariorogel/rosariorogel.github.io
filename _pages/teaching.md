@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Teaching
+title: Learning Resources
 subtitle: Courses, workshops, webinars, and more
 permalink: teaching
 header:
@@ -14,7 +14,7 @@ header:
 
 <div class="row">
 {% for p in site.data.playlists %}
-  <div class="col-md-6 mb-4">
+  <div class="col-md-6" style="margin-bottom: 70px;">
     <h3>{{ p.name }}</h3>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
       <iframe
