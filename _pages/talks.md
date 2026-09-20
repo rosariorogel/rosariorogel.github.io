@@ -10,6 +10,24 @@ header:
 Here I have compiled some of the lectures I have given—both as a guest speaker and as part of academic conferences—which are available on YouTube. Some others can be found on my YouTube channel: [@rosariogel](https://www.youtube.com/@RosarioRogel){:target="_blank" rel="noopener"}   
 
 ---
+### Revisión por pares abierta en la práctica: PREreview  
+**Organiza:** REMERI - Red CUDI  
+**Evento:** #PeerReviewWeek2026  
+**Fecha:** 14 de septiembre de 2026  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: auto;">
+  <iframe
+    src="https://www.youtube.com/embed/h7lzluBrvL0"
+    title="Revisión por pares abierta en la práctica: PREreview"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
 ### De la imprenta al algoritmo: ciencia y autoevaluación algorítmica  
 **Organiza:** Seminario Internacional de Sistemas Sociales, redes y Complejidad  
 **Evento:** Algoritmo da Sociedade (Extensão)    
